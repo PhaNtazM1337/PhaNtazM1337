@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a freshman at CMU majoring in Information Systems with an intended double major in Computer Science and minor in Computational Finance. I am interested in software engineering, predictive analytics, machine learning and AI.
 <!--
 **PhaNtazM1337/PhaNtazM1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
