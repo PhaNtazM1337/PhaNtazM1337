@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a third-year at CMU double majoring in Computer Science and Computational Finance. I am interested in machine learning, algorithmic trading and quantitative modeling.
+Currently as fourth-year undergrad at Carnegie Mellon University, I am pursuing a double major in Computer Science and Computational Finance. I have a strong quantitative background and a keen interest in financial markets, particularly in quant research and trading roles.
 <!--
 **PhaNtazM1337/PhaNtazM1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
